@@ -3,7 +3,9 @@ Serviços UX que podem ser implementados em sites de e-comerce
 
 
 Site de E-comerce para empresa do ramo textil - produz diversos produtos como almofadas, tolhas de mesas, cortinas, mantas, tapetes, entre outros. 
-Gostaria de montar o passo a passo da construção de um site voltada para experiencia de usuario e deve conter os seguintes requisitos:
+
+Produto de possuir as seguintes caracteristicas voltadas para o usuário final:
+
 - Cadastro do cliente com opção de integração ao gmail, e redes sociais;
 - Garatir a integridade dos dados e segurança para combra dos produtos do site;
 - Conteronter uma aba com todos os pedidos do cliente;
