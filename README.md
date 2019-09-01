@@ -15,3 +15,10 @@ Produto de possuir as seguintes caracteristicas voltadas para o usuário final:
 - Mostra o valor total do pedido após o cliente click em finalizar o pedido;
 - Opção de pagamento em cartão de credito ou debito e boleto;
 - Disponibilizar para baixar aplicativo no celular com todas essas informações opções de compra;
+
+Tecnologias que seram utilizadas
+HTML5
+CSS
+JAVASCRIPT
+
+Banco de dados
